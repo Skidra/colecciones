@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="colecciones/ejemploHashTable.cs" ctype="Workbench">
+    <Files>
+      <File FileName="colecciones/Principal.cs" Line="19" Column="24" />
+      <File FileName="colecciones/ejemploArrayList.cs" Line="24" Column="36" />
+      <File FileName="colecciones/ejemploHashTable.cs" Line="81" Column="4" />
+      <File FileName="colecciones/ejemploPila.cs" Line="22" Column="24" />
+      <File FileName="colecciones/ejemploCola.cs" Line="22" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
